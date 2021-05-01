@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I figured, until I come up with something clever to put here, I'll just fill this out :)
+- 🔭 I’m currently working on a project for photographers
+- 🌱 I’m currently learning anyting Elixir related
+- 💬 Ask me about Elixir, Phoenix, or my projects!
+- 📫 How to reach me: jwbaldwin3@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a big dog
+
+
 <!--
 **jwbaldwin/jwbaldwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
