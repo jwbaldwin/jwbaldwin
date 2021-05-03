@@ -4,7 +4,6 @@ I figured, until I come up with something clever to put here, I'll just fill thi
 - 🔭 I’m currently working on a project for photographers
 - 🌱 I’m currently learning how to start a successful side business, and idea validation
 - 💬 Ask me about Elixir, Phoenix, or my projects!
-- 📫 How to reach me: jwbaldwin3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a big dog
 
