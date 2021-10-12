@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I figured, until I come up with something clever to put here, I'll just fill this out :)
-- 🔭 I’m currently working on a project for building better habits! [https://mmentum.io(https://mmentum.io)
+- 🔭 I’m currently working on a project for building better habits! [mmentum.io](https://mmentum.io)
 - 🌱 I’m currently learning how to start a successful side business, and idea validation
 - 💬 Ask me about Elixir, Phoenix, or my projects!
 - 😄 Pronouns: he/him
